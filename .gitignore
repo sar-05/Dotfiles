@@ -80,9 +80,12 @@ tmux/.config/tmux/plugins/
 yazi/.config/yazi/flavors/
 yazi/.config/yazi/plugins/
 yazi/.config/yazi/package.toml
+yazi/.config/yazi/theme.toml-*
+
 
 # Hyprland (These files are updated constantly by scripts and should not be synced)
 hypr/.config/hypr/hyprlock.conf
+hypr/.config/hypr/hyprconf/colors.conf
 
 # Waybar current theme symlink (points to different themes)
 waybar/.config/waybar/themes/current.css
